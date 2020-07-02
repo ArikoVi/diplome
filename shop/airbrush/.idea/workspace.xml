@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="def50971-ffa0-49f0-a59d-cb27df0ce127" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dOEDEX6QxP2U9QZ1cdjW5wftXK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/АЭРОГРАФ IWATA KUSTOM.html" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="АЭРОГРАФ IWATA KUSTOM.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/airbrush/АЭРОГРАФ IWATA KUSTOM.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.АЭРОГРАФ IWATA KUSTOM.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="def50971-ffa0-49f0-a59d-cb27df0ce127" name="Default Changelist" comment="" />
+      <created>1592287617848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592287617848</updated>
+      <workItem from="1592287620944" duration="167000" />
+      <workItem from="1592292187424" duration="911000" />
+      <workItem from="1592293416956" duration="1638000" />
+      <workItem from="1592298032551" duration="4819000" />
+      <workItem from="1592375390231" duration="1039000" />
+      <workItem from="1592464548522" duration="132000" />
+      <workItem from="1592632154323" duration="1370000" />
+      <workItem from="1592637679794" duration="1967000" />
+      <workItem from="1592650067920" duration="1865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592654124355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592654124355" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1592650130269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592650130269" />
+    <state x="462" y="144" width="740" height="606" key="find.popup" timestamp="1592650121759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="144" width="740" height="606" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592650121759" />
+  </component>
+</project>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="831f2a88-f39b-4d0b-9be4-415c2720201e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-49" />
+    <option name="width" value="1555" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectId" id="1aLKDgj3TQHiYzkbSjM0txWYLgD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Портфолио аэрографии в Магнитогорске _ Студия аэрографии «Yakuza Ink».html" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Портфолио аэрографии в Магнитогорске _ Студия аэрографии «Yakuza Ink».html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/Портфолио аэрографии в Магнитогорске _ Студия аэрографии «Yakuza Ink».html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Портфолио аэрографии в Магнитогорске _ Студия аэрографии «Yakuza Ink».html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="831f2a88-f39b-4d0b-9be4-415c2720201e" name="Default Changelist" comment="" />
+      <created>1585822369721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585822369721</updated>
+      <workItem from="1585822373660" duration="1917000" />
+      <workItem from="1585836275353" duration="82000" />
+      <workItem from="1585836382281" duration="1354000" />
+      <workItem from="1585927083389" duration="4210000" />
+      <workItem from="1586006899976" duration="2446000" />
+      <workItem from="1586509317605" duration="2065000" />
+      <workItem from="1592133058472" duration="130000" />
+      <workItem from="1592283825677" duration="27000" />
+      <workItem from="1592373641428" duration="756000" />
+      <workItem from="1592581852494" duration="3030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592583857184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592583857184" />
+    <state x="491" y="164" width="793" height="606" key="find.popup" timestamp="1592584351205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="164" width="793" height="606" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592584351205" />
+  </component>
+</project>

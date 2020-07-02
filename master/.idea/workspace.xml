@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dd9e3b9-0d97-4c68-8fb8-87526d38cd50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a9jDGRf8M6JRIqZsYSPW6UvQED" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Мастер аэрографии в Магнитогорске.html">
+    <configuration name="Мастер по тату в Челябинске.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/master/Мастер по тату в Челябинске.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Мастер аэрографии в Магнитогорске.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/master/Мастер аэрографии в Магнитогорске.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Мастер аэрографии в Магнитогорске.html" />
+      <item itemvalue="JavaScript Debug.Мастер по тату в Челябинске.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Мастер аэрографии в Магнитогорске.html" />
+        <item itemvalue="JavaScript Debug.Мастер по тату в Челябинске.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dd9e3b9-0d97-4c68-8fb8-87526d38cd50" name="Default Changelist" comment="" />
+      <created>1577631682826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577631682826</updated>
+      <workItem from="1577631697182" duration="409000" />
+      <workItem from="1577632191164" duration="5103000" />
+      <workItem from="1577690868892" duration="601000" />
+      <workItem from="1582272794392" duration="677000" />
+      <workItem from="1584866872427" duration="14228000" />
+      <workItem from="1586006989684" duration="6057000" />
+      <workItem from="1586154586455" duration="600000" />
+      <workItem from="1586511738882" duration="1196000" />
+      <workItem from="1590503049764" duration="601000" />
+      <workItem from="1592132947271" duration="90000" />
+      <workItem from="1592213255478" duration="275000" />
+      <workItem from="1592213767456" duration="339000" />
+      <workItem from="1592372795335" duration="768000" />
+      <workItem from="1592582727327" duration="1252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592373081413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592373081413" />
+    <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1592583984261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="609" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592583984261" />
+  </component>
+</project>
